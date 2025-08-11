@@ -4,7 +4,7 @@
 ![NPM Version](https://img.shields.io/badge/dynamic/json?label=NPM&query=engines.npm&url=https%3A%2F%2Fraw.githubusercontent.com%2FRoger-twan%2Flab%2Fmain%2Fpackage.json)
 
 My trail tracking website.
-Visit [here](https://roger.ink).
+Visit live site [here](https://roger-twan.github.io/route-tracker/).
 
 ## ⚒️ Development
 

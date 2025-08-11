@@ -1,0 +1,49 @@
+{
+  "name": "trails",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@geist-ui/core": "^2.3.8",
+    "@geist-ui/icons": "^1.0.2",
+    "@next/font": "13.1.6",
+    "@next/third-parties": "^14.2.2",
+    "@svgdotjs/svg.js": "^3.1.2",
+    "@tmcw/togeojson": "^5.8.1",
+    "@types/node": "18.13.0",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "date-fns": "^3.6.0",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.1.6",
+    "inter-ui": "^4.0.2",
+    "leaflet": "^1.9.4",
+    "markdown-yaml-metadata-parser": "^3.0.0",
+    "next": "13.1.6",
+    "octokit": "^3.1.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-leaflet": "^4.2.1",
+    "three": "^0.150.1",
+    "tsparticles": "^2.9.3",
+    "tsparticles-engine": "^2.9.3",
+    "typescript": "4.9.5",
+    "yaml": "^2.4.2"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^6.5.1",
+    "@types/leaflet": "^1.9.12",
+    "eslint-config-prettier": "^8.6.0",
+    "prettier": "2.8.4",
+    "sass": "^1.58.2",
+    "unist-util-visit": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=v18",
+    "npm": "v8.19.2"
+  }
+}

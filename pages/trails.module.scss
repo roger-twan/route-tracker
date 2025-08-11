@@ -1,0 +1,23 @@
+.map-loading {
+  position: absolute;
+  height: 100vh !important;
+  top: 0;
+  left: 0;
+  margin: 0 !important;
+  background: white;
+  z-index: 401;
+}
+
+.map-container {
+  height: 100vh;
+
+  :global .text-muted {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0;
+
+    span:first-child {
+      margin-right: 10px;
+    }
+  }
+}

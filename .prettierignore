@@ -1,0 +1,7 @@
+.github
+.next
+.husky
+.prettierignore
+*.png
+.env
+public/CNAME

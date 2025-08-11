@@ -26,7 +26,7 @@ const PageTrail: PageWithLayout<Props> = ({ list }: Props) => {
   return (
     <>
       <Head>
-        <title>Roger's Trails</title>
+        <title>Roger&apos;s Trails</title>
       </Head>
       {!isMapReady && (
         <Grid.Container gap={2.5} className={style['map-loading']}>

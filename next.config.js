@@ -11,9 +11,6 @@ const nextConfig = {
 
     return config
   },
-  eslint: {
-    dirs: ['components', 'pages', 'utils'],
-  },
   pageExtensions: ['page.tsx', 'page.ts', 'page.jsx', 'page.js'],
 }
 
